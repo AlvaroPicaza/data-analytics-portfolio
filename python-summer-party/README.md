@@ -10,7 +10,3 @@ This repository contains my completed notebooks from Interview Master's Python S
    pip install jupyterlab pandas numpy
    
 3. Launch Jupyter Lab or Notebook and open any `day-XX.ipynb` file.
-
-## About Interview Master
-
-These challenges are hosted by Interview Master -- a platform for preparing for Data Science & Analytics interviews. Learn more at [interviewmaster.ai](https://www.interviewmaster.ai).
