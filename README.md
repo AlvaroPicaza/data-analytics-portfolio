@@ -6,4 +6,4 @@ como pueden ser Excel, Jupyter Notebooks, etc.
 :brain:[Salud mental en el ámbito de la tecnología](https://github.com/AlvaroPicaza/data-analytics-portfolio/tree/994587796250822bc6d1cb5c20dd2948e9692e76/Salud%20mental%20tecnolog%C3%ADa)\
 :taxi:[Reservas Uber](https://github.com/AlvaroPicaza/data-analytics-portfolio/tree/606dd13296dd55f2efd7b019655d20744218bdb5/Uber)\
 :chart_with_upwards_trend:[Ventas Zara](https://github.com/AlvaroPicaza/data-analytics-portfolio/tree/606dd13296dd55f2efd7b019655d20744218bdb5/Ventas%20Zara)\
-:snake::beach_umbrella:[Python Summer Party Challenge](https://github.com/AlvaroPicaza/data-analytics-portfolio/tree/606dd13296dd55f2efd7b019655d20744218bdb5/python-summer-party)
+:beach_umbrella:[Python Summer Party Challenge](https://github.com/AlvaroPicaza/data-analytics-portfolio/tree/606dd13296dd55f2efd7b019655d20744218bdb5/python-summer-party)
